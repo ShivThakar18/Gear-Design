@@ -9,8 +9,11 @@ This project outlines the design for a low-cost gripping apparatus for an advanc
 We designed our mechanism to be composed of 14 spur gears, which were given an input speed of 67 RPM to 15.033 RPM
 ## Gear Calculations
 Input Speed = 67 RPM
+
 Desired Output Speed = 15 RPM +- 0.075 RPM
+
 Achieved Output Speed = 15.033 RPM
+
 Gear Ratio = 67 / 15 = 4.46667
 
 <img width="501" height="60" alt="image" src="https://github.com/user-attachments/assets/dbb27cc7-9eaf-4e62-a710-5b2e9980cccf" />
