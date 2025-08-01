@@ -15,10 +15,14 @@ Gear Ratio = 67 / 15 = 4.46667
 
 <img width="501" height="60" alt="image" src="https://github.com/user-attachments/assets/dbb27cc7-9eaf-4e62-a710-5b2e9980cccf" />
 
-Gear A: 20 Teeth, 67 RPM
+Gear A: 20 Teeth, 67 RPM.
+
 Gear B: 28 Teeth, 47.857 RPM
+
 Gear C: 14 Teeth, 47.857 RPM
+
 Gear D: 24 Teeth, 27.917 RPM
+
 Gear E: 14 Teeth, 15.033 RPM
 
 ## Simplified Gearing Mechanism 
